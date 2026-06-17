@@ -1,32 +1,29 @@
 # Data Science & Machine Learning Portfolio
 
-Welcome to my learning and development repository. This repository tracks my journey from foundational programming and databases to advanced scientific computing, statistical modeling, and Machine Learning.
+Welcome to my personal learning and development repository. This portfolio showcases my hands-on assignments, projects, and practical implementations, tracing my journey from advanced programming and databases to statistical computing and Machine Learning.
 
 ##  Repository Structure
 
-###  1. Python Basics (`/01-python-basics`)
-* **Focus:** Syntax, data structures (lists, dictionaries, tuples), OOP concepts, and logic blocks.
-* **Goal:** Building strong programming fundamentals for handling data.
+###  1. Advanced Python Programming (`/01-advanced-python`)
+* **Focus:** Deep dive into Python principles, complex logical structures, Object-Oriented Programming (OOP), and writing clean, optimized code.
+* **Goal:** Building a robust engineering foundation required for handling complex data structures and algorithmic logic.
 
-###  2. Database Management & SQL (`/02-database-sql`)
-* **Focus:** Relational database design, table structures, and writing complex queries.
-* **Goal:** Learning how to efficiently store, manage, and query structured data.
+###  2. Database Management with SQL Server (`/02-sql-server`)
+* **Focus:** Relational database design, table architecture, relational integrity, and writing structured, efficient SQL queries (DDL/DML).
+* **Goal:** Learning how to manage, manipulate, and extract business or application data from enterprise database systems.
 
-###  3. NumPy & Pandas for Data Manipulation (`/03-data-manipulation`)
-* **Focus:** Multi-dimensional arrays with NumPy and structured DataFrames with Pandas.
-* **Goal:** Cleaning, filtering, and preparing datasets for analytical pipelines.
+###  3. Probability & Statistics with Data Science Libraries (`/03-statistics-and-data-analysis`)
+* **Focus:** Core statistical concepts and exploratory data analysis (EDA) implemented using **NumPy** for numerical computations, **Pandas** for data manipulation, and **Matplotlib** & **Seaborn** for data visualization.
+* **Goal:** Cleaning datasets, analyzing data distributions, testing hypotheses, and discovering data insights visually.
 
-###  4. Probability & Statistics with Python (`/04-probability-statistics`)
-* **Focus:** Core statistical concepts (descriptive statistics, distributions, hypothesis testing) implemented using NumPy, Pandas, and SciPy.
-* **Goal:** Developing data-driven insights and mathematical foundations for modeling.
-
-###  5. Machine Learning Pipelines (`/05-machine-learning`)
-* **Focus:** Data preprocessing, feature engineering, and training supervised/unsupervised ML models using Scikit-Learn.
-* **Goal:** Building predictive models and evaluating their performance.
+###  4. Machine Learning(`/04-machine-learning`)
+* **Focus:** Data preprocessing, feature engineering, training supervised/unsupervised Machine Learning models using Scikit-Learn, and executing the final comprehensive project.
+* **Goal:** Building, evaluating, and deploying end-to-end predictive models to solve real-world data science problems.
 
 ---
 
 ##  Tech Stack & Tools
 * **Languages:** Python, SQL
-* **Libraries:** NumPy, Pandas, SciPy, Scikit-Learn, Matplotlib / Seaborn
+* **Databases:** Microsoft SQL Server
+* **Libraries:** NumPy, Pandas, Matplotlib, Seaborn
 * **Environment:** VS Code, Jupyter Notebooks
