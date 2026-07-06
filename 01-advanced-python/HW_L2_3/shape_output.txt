@@ -1,0 +1,6 @@
+Shape : Square - Area : 4 - Prerimeter : 8.00
+Shape : Circle - Error : ['Invalid data type!']
+Shape : Square - Error : ['Invalid side!']
+Shape : Rectangle - Error : ['Invalid data type!']
+Shape : Rectangle - Area : 16 - Prerimeter : 20.00
+Shape : Triangle - Error : ['Invalid side', 'Invalid triangle!']
