@@ -38,4 +38,4 @@ This repository contains SQL queries for database analysis, focuses on banking t
 ---
 
 ## 👨‍💻 نویسنده (Author)
-* **Zargol Kanani** (زارگل کنانی)
+* **Zargol Kanani** (زرگل کنعانی)
