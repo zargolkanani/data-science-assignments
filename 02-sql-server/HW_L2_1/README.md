@@ -32,8 +32,8 @@ This repository contains SQL queries for database analysis, focuses on banking t
 * **Description (EN):** Evaluates daily maximum transaction amounts and total transaction counts grouped by date and terminal number[cite: 24].
 
 ### 7️⃣ عملکرد پایانه‌های غیرفعال در اسفند ماه (Inactive Terminals Recovery Analysis)
-* **توضیحات (FA):** محاسبه مجموع درآمد اسفند ماه پایانه‌هایی که در بهمن ماه کاملاً غیرفعال بوده یا مبلغ تراکنش آن‌ها صفر بوده است[cite: 25].
-* **Description (EN):** Analyzes Esfand transaction totals for terminals that were completely inactive (amount = 0) during Bahman[cite: 25].
+* **توضیحات (FA):**محاسبه مجموع درآمد اسفند ماه پایانه‌هایی که در بهمن ماه کاملاً غیرفعال بوده و هیچ‌گونه رکورد تراکنشی برای آن‌ها ثبت نشده است (با استفاده از NOT IN).[cite: 25].
+* **Description (EN):** Analyzes Esfand transaction totals for terminals that were completely inactive and recorded zero transaction entries during Bahman (using NOT IN).[cite: 25].
 
 ---
 
