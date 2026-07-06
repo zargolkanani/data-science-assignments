@@ -1,4 +1,4 @@
-# Data Science Bootcamp - SQL & Database Analysis Homework (HW_L2_4)
+# Data Science Bootcamp - SQL & Database Analysis Homework (HW_L2_1)
 
 این مخزن شامل پاسخ تکالیف و کوئری‌های تحلیل دیتابیس در پلتفرم SQL Server برای بخش تراکنش‌های مالی و مدیریت اطلاعات پایانه‌ها در بوت‌کمپ دیتاساینس است.
 This repository contains SQL queries for database analysis, focuses on banking transactions, terminal performance tracking, and merchant workflow analysis.
